@@ -1,0 +1,55 @@
+{
+  "res": "true",
+  "data": [
+    {
+      "id": "1",
+      "userName": "admin",
+      "pwd": "123",
+      "name": "管理员",
+      "role": "1"
+    },
+    {
+      "id": "2",
+      "userName": "zhangsan",
+      "pwd": "123456",
+      "name": "教师",
+      "role": "2"
+    },{
+      "id": "3",
+      "userName": "lining",
+      "pwd": "1234",
+      "name": "李宁",
+      "role": "3"
+    },{
+      "id": "4",
+      "userName": "xiaoqing",
+      "pwd": "1234",
+      "role": "3"
+    },{
+      "id": "5",
+      "userName": "xiaohua",
+      "pwd": "1234",
+      "role": "3"
+    },{
+      "id": "6",
+      "userName": "xiaomu",
+      "pwd": "1234",
+      "role": "3"
+    },{
+      "id": "7",
+      "userName": "xiaolin",
+      "pwd": "123456",
+      "role": "2"
+    },{
+      "id": "8",
+      "userName": "xiaochen",
+      "pwd": "123456",
+      "role": "2"
+    },{
+      "id": "9",
+      "userName": "xiaohong",
+      "pwd": "1234",
+      "role": "3"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "res": "true",
+  "data": [
+    {
+      "id": "1",
+      "courseNo": "course_001",
+      "courseName": "工程爆破",
+      "score": "3",
+      "courseHour": "99",
+      "term": "3"
+    },{
+      "id": "2",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "3",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "4",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "5",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "6",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "7",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "8",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "9",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "10",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "11",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "12",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    },{
+      "id": "13",
+      "courseNo": "course_002",
+      "courseName": "注入",
+      "score": "3",
+      "courseHour": "99",
+      "term": "4"
+    }
+
+  ]
+}

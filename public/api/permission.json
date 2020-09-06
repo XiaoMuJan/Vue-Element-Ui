@@ -1,0 +1,40 @@
+{
+  "res": "true",
+  "data": {
+    "1": [
+      {"id": "1",
+        "title": "基础信息管理",
+        "name": "base",
+        "children": [
+          {"id": "11", "title": "网站用户", "name": "user"},
+          {"id": "12", "title": "学期管理", "name": "term"},
+          {"id": "13", "title": "教室管理", "name": "classroom"},
+          {"id": "14", "title": "学生管理", "name": "student"},
+          {"id": "15", "title": "教师管理", "name": "teacher"},
+          {"id": "16", "title": "课程管理", "name": "course"},
+          {"id": "17", "title": "年级管理", "name": "grade"}
+        ]
+      },
+      {"id": "2",
+        "title": "排课",
+        "name": "arrange"
+      }
+    ],
+    "2":[
+      {"id": "3",
+        "title": "我的课表",
+        "name": "mycourse"
+      }
+    ],
+    "3":[
+      {"id": "4",
+        "title": "选课",
+        "name": "choose"
+      },
+      {"id": "5",
+        "title": "我的选课",
+        "name": "mychoose"
+      }
+    ]
+  }
+}
